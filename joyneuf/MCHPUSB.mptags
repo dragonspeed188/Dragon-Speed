@@ -1,0 +1,365 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRESS_STATE::5	C:\joyneuf\system\usb\usbmmap.h	62;"	d	line:62
+ADR	C:\joyneuf\system\usb\usbmmap.h	123;"	m	line:123	struct:_BDT::<anonymous>
+ADRH	C:\joyneuf\system\usb\usbmmap.h	117;"	m	line:117	struct:_BDT::<anonymous>
+ADRL	C:\joyneuf\system\usb\usbmmap.h	116;"	m	line:116	struct:_BDT::<anonymous>
+ADR_PENDING_STATE::4	C:\joyneuf\system\usb\usbmmap.h	61;"	d	line:61
+ATTACHED_STATE::1	C:\joyneuf\system\usb\usbmmap.h	58;"	d	line:58
+BC8	C:\joyneuf\system\usb\usbmmap.h	84;"	m	line:84	struct:_BD_STAT::<anonymous>
+BC8	C:\joyneuf\system\usb\usbmmap.h	94;"	m	line:94	struct:_BD_STAT::<anonymous>
+BC9	C:\joyneuf\system\usb\usbmmap.h	85;"	m	line:85	struct:_BD_STAT::<anonymous>
+BC9	C:\joyneuf\system\usb\usbmmap.h	95;"	m	line:95	struct:_BD_STAT::<anonymous>
+BDT	C:\joyneuf\system\usb\usbmmap.h	125;"	t	line:125
+BD_STAT	C:\joyneuf\system\usb\usbmmap.h	108;"	t	line:108
+BOOL	C:\joyneuf\system\typedefs.h	150;"	t	line:150
+BOOT_INTF_SUBCLASS::0x01	C:\joyneuf\system\usb\class\hid\hid.h	66;"	d	line:66
+BOOT_PROTOCOL::0x00	C:\joyneuf\system\usb\class\hid\hid.h	58;"	d	line:58
+BSTALL	C:\joyneuf\system\usb\usbmmap.h	86;"	m	line:86	struct:_BD_STAT::<anonymous>
+BYTE	C:\joyneuf\system\typedefs.h	58;"	t	line:58
+Byte0	C:\joyneuf\system\typedefs.h	103;"	m	line:103	struct:_DWORD::<anonymous>
+Byte0	C:\joyneuf\system\typedefs.h	70;"	m	line:70	struct:_WORD::<anonymous>
+Byte1	C:\joyneuf\system\typedefs.h	104;"	m	line:104	struct:_DWORD::<anonymous>
+Byte1	C:\joyneuf\system\typedefs.h	71;"	m	line:71	struct:_WORD::<anonymous>
+Byte2	C:\joyneuf\system\typedefs.h	105;"	m	line:105	struct:_DWORD::<anonymous>
+Byte3	C:\joyneuf\system\typedefs.h	106;"	m	line:106	struct:_DWORD::<anonymous>
+CARD_DETECT::PORTBbits.RB4	C:\joyneuf\io_cfg.h	116;"	d	line:116
+CFG01::romstruct	C:\joyneuf\autofiles\usbdsc.h	58;"	d	line:58
+CONFIGURED_STATE::6	C:\joyneuf\system\usb\usbmmap.h	63;"	d	line:63
+ClassReqHandler	C:\joyneuf\autofiles\usbdsc.c	293;"	v	line:293
+ClearArray	C:\joyneuf\system\usb\usbdrv\usbdrv.c	588;"	f	line:588	signature:(byte* startAdr,byte count)
+Cnt	C:\joyneuf\system\usb\usbmmap.h	115;"	m	line:115	struct:_BDT::<anonymous>
+CtrlTrfData	C:\joyneuf\system\usb\usbmmap.c	269;"	v	line:269
+DEFAULT_STATE::3	C:\joyneuf\system\usb\usbmmap.h	60;"	d	line:60
+DETACHED_STATE::0	C:\joyneuf\system\usb\usbmmap.h	57;"	d	line:57
+DSC_HID::0x21	C:\joyneuf\system\usb\class\hid\hid.h	53;"	d	line:53
+DSC_PHY::0x23	C:\joyneuf\system\usb\class\hid\hid.h	55;"	d	line:55
+DSC_RPT::0x22	C:\joyneuf\system\usb\class\hid\hid.h	54;"	d	line:54
+DTS	C:\joyneuf\system\usb\usbmmap.h	90;"	m	line:90	struct:_BD_STAT::<anonymous>
+DTSEN	C:\joyneuf\system\usb\usbmmap.h	87;"	m	line:87	struct:_BD_STAT::<anonymous>
+DWORD	C:\joyneuf\system\typedefs.h	117;"	t	line:117
+EP0_BUFF_SIZE::8	C:\joyneuf\autofiles\usbcfg.h	38;"	d	line:38
+FAIL::FALSE	C:\joyneuf\system\typedefs.h	153;"	d	line:153
+FALSE	C:\joyneuf\system\typedefs.h	150;"	e	line:150	enum:_BOOL
+GET_IDLE::0x02	C:\joyneuf\system\usb\class\hid\hid.h	46;"	d	line:46
+GET_PROTOCOL::0x03	C:\joyneuf\system\usb\class\hid\hid.h	47;"	d	line:47
+GET_REPORT::0x01	C:\joyneuf\system\usb\class\hid\hid.h	45;"	d	line:45
+HIDGetReportHandler	C:\joyneuf\system\usb\class\hid\hid.c	138;"	f	line:138	signature:(void)
+HIDGetReportHandler	C:\joyneuf\system\usb\class\hid\hid.c	51;"	p	line:51	file:	signature:(void)
+HIDInitEP	C:\joyneuf\system\usb\class\hid\hid.c	170;"	f	line:170	signature:(void)
+HIDInitEP	C:\joyneuf\system\usb\class\hid\hid.h	151;"	p	line:151	signature:(void)
+HIDRxReport	C:\joyneuf\system\usb\class\hid\hid.c	281;"	f	line:281	signature:(char *buffer, byte len)
+HIDRxReport	C:\joyneuf\system\usb\class\hid\hid.h	154;"	p	line:154	signature:(char *buffer, byte len)
+HIDSetReportHandler	C:\joyneuf\system\usb\class\hid\hid.c	143;"	f	line:143	signature:(void)
+HIDSetReportHandler	C:\joyneuf\system\usb\class\hid\hid.c	52;"	p	line:52	file:	signature:(void)
+HIDTxReport	C:\joyneuf\system\usb\class\hid\hid.c	226;"	f	line:226	signature:(char *buffer, byte len)
+HIDTxReport	C:\joyneuf\system\usb\class\hid\hid.h	153;"	p	line:153	signature:(char *buffer, byte len)
+HID_BD_IN::ep1Bi	C:\joyneuf\autofiles\usbcfg.h	71;"	d	line:71
+HID_BD_OUT::ep1Bo	C:\joyneuf\autofiles\usbcfg.h	69;"	d	line:69
+HID_H	C:\joyneuf\system\usb\class\hid\hid.h	37;"	d	line:37
+HID_INTF::0x03	C:\joyneuf\system\usb\class\hid\hid.h	63;"	d	line:63
+HID_INTF_ID::0x00	C:\joyneuf\autofiles\usbcfg.h	67;"	d	line:67
+HID_INT_IN_EP_SIZE::4	C:\joyneuf\autofiles\usbcfg.h	72;"	d	line:72
+HID_INT_OUT_EP_SIZE::4	C:\joyneuf\autofiles\usbcfg.h	70;"	d	line:70
+HID_NUM_OF_DSC::1	C:\joyneuf\autofiles\usbcfg.h	73;"	d	line:73
+HID_PROTOCOL_KEYBOAD::0x01	C:\joyneuf\system\usb\class\hid\hid.h	70;"	d	line:70
+HID_PROTOCOL_MOUSE::0x02	C:\joyneuf\system\usb\class\hid\hid.h	71;"	d	line:71
+HID_PROTOCOL_NONE::0x00	C:\joyneuf\system\usb\class\hid\hid.h	69;"	d	line:69
+HID_RPT01_SIZE::79	C:\joyneuf\autofiles\usbcfg.h	74;"	d	line:74
+HID_UEP::UEP1	C:\joyneuf\autofiles\usbcfg.h	68;"	d	line:68
+HighB	C:\joyneuf\system\typedefs.h	76;"	m	line:76	struct:_WORD::<anonymous>
+INCDIS	C:\joyneuf\system\usb\usbmmap.h	88;"	m	line:88	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	C:\joyneuf\io_cfg.h	44;"	d	line:44
+IO_CFG_H	C:\joyneuf\io_cfg.h	38;"	d	line:38
+InitializeSystem	C:\joyneuf\main.c	110;"	f	line:110	file:	signature:(void)
+InitializeSystem	C:\joyneuf\main.c	50;"	p	line:50	file:	signature:(void)
+KEN	C:\joyneuf\system\usb\usbmmap.h	89;"	m	line:89	struct:_BD_STAT::<anonymous>
+LOWER_LSB::(a)((a).v[0])	C:\joyneuf\system\typedefs.h	118;"	d	line:118
+LOWER_MSB::(a)((a).v[1])	C:\joyneuf\system\typedefs.h	119;"	d	line:119
+LSB::(a)((a).v[0])	C:\joyneuf\system\typedefs.h	83;"	d	line:83
+LowB	C:\joyneuf\system\typedefs.h	75;"	m	line:75	struct:_WORD::<anonymous>
+MAX_EP_NUMBER::1	C:\joyneuf\autofiles\usbcfg.h	96;"	d	line:96
+MAX_NUM_INT::1	C:\joyneuf\autofiles\usbcfg.h	39;"	d	line:39
+MODE_PP::_PPBM0	C:\joyneuf\autofiles\usbcfg.h	42;"	d	line:42
+MSB::(a)((a).v[1])	C:\joyneuf\system\typedefs.h	84;"	d	line:84
+MUID_CDC::3	C:\joyneuf\autofiles\usbcfg.h	59;"	d	line:59
+MUID_HID::2	C:\joyneuf\autofiles\usbcfg.h	58;"	d	line:58
+MUID_NULL::0	C:\joyneuf\autofiles\usbcfg.h	56;"	d	line:56
+MUID_USB9::1	C:\joyneuf\autofiles\usbcfg.h	57;"	d	line:57
+OK::TRUE	C:\joyneuf\system\typedefs.h	152;"	d	line:152
+OUTPUT_PIN::0	C:\joyneuf\io_cfg.h	45;"	d	line:45
+PID	C:\joyneuf\system\usb\usbmmap.h	105;"	m	line:105	struct:_BD_STAT::<anonymous>
+PID0	C:\joyneuf\system\usb\usbmmap.h	96;"	m	line:96	struct:_BD_STAT::<anonymous>
+PID1	C:\joyneuf\system\usb\usbmmap.h	97;"	m	line:97	struct:_BD_STAT::<anonymous>
+PID2	C:\joyneuf\system\usb\usbmmap.h	98;"	m	line:98	struct:_BD_STAT::<anonymous>
+PID3	C:\joyneuf\system\usb\usbmmap.h	99;"	m	line:99	struct:_BD_STAT::<anonymous>
+POINTER	C:\joyneuf\system\typedefs.h	148;"	t	line:148
+POWERED_STATE::2	C:\joyneuf\system\usb\usbmmap.h	59;"	d	line:59
+ProcessIO	C:\joyneuf\user\user_mouse.c	78;"	f	line:78	signature:(void)
+ProcessIO	C:\joyneuf\user\user_mouse.h	42;"	p	line:42	signature:(void)
+RPT_PROTOCOL::0x01	C:\joyneuf\system\usb\class\hid\hid.h	59;"	d	line:59
+RemoteWakeup	C:\joyneuf\system\usb\usbmmap.h	75;"	m	line:75	struct:_USB_DEVICE_STATUS::<anonymous>
+SET_IDLE::0x0A	C:\joyneuf\system\usb\class\hid\hid.h	49;"	d	line:49
+SET_PROTOCOL::0x0B	C:\joyneuf\system\usb\class\hid\hid.h	50;"	d	line:50
+SET_REPORT::0x09	C:\joyneuf\system\usb\class\hid\hid.h	48;"	d	line:48
+SetupPkt	C:\joyneuf\system\usb\usbmmap.c	268;"	v	line:268
+Stat	C:\joyneuf\system\usb\usbmmap.h	114;"	m	line:114	struct:_BDT::<anonymous>
+TRIS_CARD_DETECT::TRISBbits.TRISB4	C:\joyneuf\io_cfg.h	115;"	d	line:115
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	C:\joyneuf\io_cfg.h	118;"	d	line:118
+TRUE	C:\joyneuf\system\typedefs.h	150;"	e	line:150	enum:_BOOL
+TYPEDEFS_H	C:\joyneuf\system\typedefs.h	38;"	d	line:38
+UCFG_VAL::_PUEN|_TRINT|_FS|MODE_PP	C:\joyneuf\autofiles\usbcfg.h	43;"	d	line:43
+UOWN	C:\joyneuf\system\usb\usbmmap.h	101;"	m	line:101	struct:_BD_STAT::<anonymous>
+UOWN	C:\joyneuf\system\usb\usbmmap.h	91;"	m	line:91	struct:_BD_STAT::<anonymous>
+UPPER_LSB::(a)((a).v[2])	C:\joyneuf\system\typedefs.h	120;"	d	line:120
+UPPER_MSB::(a)((a).v[3])	C:\joyneuf\system\typedefs.h	121;"	d	line:121
+USBCFG_H	C:\joyneuf\autofiles\usbcfg.h	35;"	d	line:35
+USBCheckBusStatus	C:\joyneuf\system\usb\usbdrv\usbdrv.c	76;"	f	line:76	signature:(void)
+USBCheckHIDRequest	C:\joyneuf\system\usb\class\hid\hid.c	74;"	f	line:74	signature:(void)
+USBCheckHIDRequest	C:\joyneuf\system\usb\class\hid\hid.h	152;"	p	line:152	signature:(void)
+USBCheckStdRequest	C:\joyneuf\system\usb\usb9\usb9.c	70;"	f	line:70	signature:(void)
+USBCtrlEPService	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	78;"	f	line:78	signature:(void)
+USBCtrlEPServiceComplete	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	385;"	f	line:385	signature:(void)
+USBCtrlTrfInHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	224;"	f	line:224	signature:(void)
+USBCtrlTrfInHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	54;"	p	line:54	file:	signature:(void)
+USBCtrlTrfOutHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	179;"	f	line:179	signature:(void)
+USBCtrlTrfOutHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	53;"	p	line:53	file:	signature:(void)
+USBCtrlTrfRxService	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	333;"	f	line:333	signature:(void)
+USBCtrlTrfSetupHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	133;"	f	line:133	signature:(void)
+USBCtrlTrfSetupHandler	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	52;"	p	line:52	file:	signature:(void)
+USBCtrlTrfTxService	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	263;"	f	line:263	signature:(void)
+USBDSC_H	C:\joyneuf\autofiles\usbdsc.h	40;"	d	line:40
+USBDriverService	C:\joyneuf\system\usb\usbdrv\usbdrv.c	216;"	f	line:216	signature:(void)
+USBErrorHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	537;"	f	line:537	signature:(void)
+USBErrorHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	56;"	p	line:56	file:	signature:(void)
+USBMMAP_H	C:\joyneuf\system\usb\usbmmap.h	38;"	d	line:38
+USBModuleDisable	C:\joyneuf\system\usb\usbdrv\usbdrv.c	162;"	f	line:162	signature:(void)
+USBModuleDisable	C:\joyneuf\system\usb\usbdrv\usbdrv.c	48;"	p	line:48	file:	signature:(void)
+USBModuleEnable	C:\joyneuf\system\usb\usbdrv\usbdrv.c	136;"	f	line:136	signature:(void)
+USBModuleEnable	C:\joyneuf\system\usb\usbdrv\usbdrv.c	47;"	p	line:47	file:	signature:(void)
+USBPrepareForNextSetupTrf	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	493;"	f	line:493	signature:(void)
+USBProtocolResetHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	53;"	p	line:53	file:	signature:(void)
+USBProtocolResetHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	564;"	f	line:564	signature:(void)
+USBRemoteWakeup	C:\joyneuf\system\usb\usbdrv\usbdrv.c	417;"	f	line:417	signature:(void)
+USBSoftDetach	C:\joyneuf\system\usb\usbdrv\usbdrv.c	193;"	f	line:193	signature:(void)
+USBStallHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	501;"	f	line:501	signature:(void)
+USBStallHandler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	55;"	p	line:55	file:	signature:(void)
+USBStdFeatureReqHandler	C:\joyneuf\system\usb\usb9\usb9.c	275;"	f	line:275	signature:(void)
+USBStdFeatureReqHandler	C:\joyneuf\system\usb\usb9\usb9.c	50;"	p	line:50	file:	signature:(void)
+USBStdGetDscHandler	C:\joyneuf\system\usb\usb9\usb9.c	136;"	f	line:136	signature:(void)
+USBStdGetDscHandler	C:\joyneuf\system\usb\usb9\usb9.c	47;"	p	line:47	file:	signature:(void)
+USBStdGetStatusHandler	C:\joyneuf\system\usb\usb9\usb9.c	218;"	f	line:218	signature:(void)
+USBStdGetStatusHandler	C:\joyneuf\system\usb\usb9\usb9.c	49;"	p	line:49	file:	signature:(void)
+USBStdSetCfgHandler	C:\joyneuf\system\usb\usb9\usb9.c	180;"	f	line:180	signature:(void)
+USBStdSetCfgHandler	C:\joyneuf\system\usb\usb9\usb9.c	48;"	p	line:48	file:	signature:(void)
+USBSuspend	C:\joyneuf\system\usb\usbdrv\usbdrv.c	302;"	f	line:302	signature:(void)
+USBSuspend	C:\joyneuf\system\usb\usbdrv\usbdrv.c	50;"	p	line:50	file:	signature:(void)
+USBTasks	C:\joyneuf\main.c	143;"	f	line:143	signature:(void)
+USBTasks	C:\joyneuf\main.c	51;"	p	line:51	file:	signature:(void)
+USBWakeFromSuspend	C:\joyneuf\system\usb\usbdrv\usbdrv.c	368;"	f	line:368	signature:(void)
+USBWakeFromSuspend	C:\joyneuf\system\usb\usbdrv\usbdrv.c	51;"	p	line:51	file:	signature:(void)
+USB_BUS_ATTACHED::1	C:\joyneuf\system\usb\usbdrv\usbdrv.c	82;"	d	line:82	file:
+USB_BUS_DETACHED::0	C:\joyneuf\system\usb\usbdrv\usbdrv.c	83;"	d	line:83	file:
+USB_CD_Ptr	C:\joyneuf\autofiles\usbdsc.c	290;"	v	line:290
+USB_DEVICE_STATUS	C:\joyneuf\system\usb\usbmmap.h	78;"	t	line:78
+USB_H	C:\joyneuf\system\usb\usb.h	37;"	d	line:37
+USB_HID_DSC	C:\joyneuf\system\usb\class\hid\hid.h	145;"	t	line:145
+USB_HID_DSC_HEADER	C:\joyneuf\system\usb\class\hid\hid.h	135;"	t	line:135
+USB_SD_Ptr	C:\joyneuf\autofiles\usbdsc.c	291;"	v	line:291
+USB_SOF_Handler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	458;"	f	line:458	signature:(void)
+USB_SOF_Handler	C:\joyneuf\system\usb\usbdrv\usbdrv.c	54;"	p	line:54	file:	signature:(void)
+USB_USE_HID	C:\joyneuf\autofiles\usbcfg.h	49;"	d	line:49
+USER_H	C:\joyneuf\user\user_mouse.h	38;"	d	line:38
+UserInit	C:\joyneuf\user\user_mouse.c	57;"	f	line:57	signature:(void)
+UserInit	C:\joyneuf\user\user_mouse.h	41;"	p	line:41	signature:(void)
+WORD	C:\joyneuf\system\typedefs.h	82;"	t	line:82
+WRITE_DETECT::PORTAbits.RA4	C:\joyneuf\io_cfg.h	119;"	d	line:119
+Word0	C:\joyneuf\system\typedefs.h	110;"	m	line:110	struct:_DWORD::<anonymous>
+Word1	C:\joyneuf\system\typedefs.h	111;"	m	line:111	struct:_DWORD::<anonymous>
+_BDT	C:\joyneuf\system\usb\usbmmap.h	110;"	u	line:110
+_BD_STAT	C:\joyneuf\system\usb\usbmmap.h	80;"	u	line:80
+_BOOL	C:\joyneuf\system\typedefs.h	150;"	g	line:150
+_BSTALL::0x04	C:\joyneuf\system\usb\usbmmap.h	46;"	d	line:46
+_BYTE	C:\joyneuf\system\typedefs.h	44;"	u	line:44
+_DAT0::0x00	C:\joyneuf\system\usb\usbmmap.h	50;"	d	line:50
+_DAT1::0x40	C:\joyneuf\system\usb\usbmmap.h	51;"	d	line:51
+_DTSEN::0x08	C:\joyneuf\system\usb\usbmmap.h	47;"	d	line:47
+_DTSMASK::0x40	C:\joyneuf\system\usb\usbmmap.h	52;"	d	line:52
+_DWORD	C:\joyneuf\system\typedefs.h	86;"	u	line:86
+_INCDIS::0x10	C:\joyneuf\system\usb\usbmmap.h	48;"	d	line:48
+_KEN::0x20	C:\joyneuf\system\usb\usbmmap.h	49;"	d	line:49
+_POINTER	C:\joyneuf\system\typedefs.h	125;"	u	line:125
+_RAM::0	C:\joyneuf\system\usb\usbmmap.h	66;"	d	line:66
+_ROM::1	C:\joyneuf\system\usb\usbmmap.h	67;"	d	line:67
+_UCPU::0x00	C:\joyneuf\system\usb\usbmmap.h	54;"	d	line:54
+_USB_DEVICE_STATUS	C:\joyneuf\system\usb\usbmmap.h	70;"	u	line:70
+_USB_HID_DSC	C:\joyneuf\system\usb\class\hid\hid.h	137;"	s	line:137
+_USB_HID_DSC_HEADER	C:\joyneuf\system\usb\class\hid\hid.h	131;"	s	line:131
+_USIE::0x80	C:\joyneuf\system\usb\usbmmap.h	53;"	d	line:53
+_WORD	C:\joyneuf\system\typedefs.h	60;"	u	line:60
+_byte	C:\joyneuf\system\typedefs.h	46;"	m	line:46	union:_BYTE
+_byte	C:\joyneuf\system\usb\usbmmap.h	72;"	m	line:72	union:_USB_DEVICE_STATUS
+_byte	C:\joyneuf\system\usb\usbmmap.h	82;"	m	line:82	union:_BD_STAT
+_dword	C:\joyneuf\system\typedefs.h	88;"	m	line:88	union:_DWORD
+_reset	C:\joyneuf\main.c	57;"	f	line:57	signature:(void)
+_startup	C:\joyneuf\main.c	55;"	p	line:55	file:	signature:(void)
+_word	C:\joyneuf\system\typedefs.h	133;"	m	line:133	union:_POINTER
+_word	C:\joyneuf\system\typedefs.h	62;"	m	line:62	union:_WORD
+active_protocol	C:\joyneuf\system\usb\class\hid\hid.c	47;"	v	line:47
+b0	C:\joyneuf\system\typedefs.h	49;"	m	line:49	struct:_BYTE::<anonymous>
+b1	C:\joyneuf\system\typedefs.h	50;"	m	line:50	struct:_BYTE::<anonymous>
+b2	C:\joyneuf\system\typedefs.h	51;"	m	line:51	struct:_BYTE::<anonymous>
+b3	C:\joyneuf\system\typedefs.h	52;"	m	line:52	struct:_BYTE::<anonymous>
+b4	C:\joyneuf\system\typedefs.h	53;"	m	line:53	struct:_BYTE::<anonymous>
+b5	C:\joyneuf\system\typedefs.h	54;"	m	line:54	struct:_BYTE::<anonymous>
+b6	C:\joyneuf\system\typedefs.h	55;"	m	line:55	struct:_BYTE::<anonymous>
+b7	C:\joyneuf\system\typedefs.h	56;"	m	line:56	struct:_BYTE::<anonymous>
+bCountryCode	C:\joyneuf\system\usb\class\hid\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bDscType	C:\joyneuf\autofiles\usbdsc.c	234;"	m	line:234	file:
+bDscType	C:\joyneuf\autofiles\usbdsc.c	237;"	m	line:237	file:
+bDscType	C:\joyneuf\autofiles\usbdsc.c	242;"	m	line:242	file:
+bDscType	C:\joyneuf\system\usb\class\hid\hid.h	133;"	m	line:133	struct:_USB_HID_DSC_HEADER
+bDscType	C:\joyneuf\system\usb\class\hid\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bHigh	C:\joyneuf\system\typedefs.h	130;"	m	line:130	struct:_POINTER::<anonymous>
+bLength	C:\joyneuf\autofiles\usbdsc.c	234;"	m	line:234	file:
+bLength	C:\joyneuf\autofiles\usbdsc.c	237;"	m	line:237	file:
+bLength	C:\joyneuf\autofiles\usbdsc.c	242;"	m	line:242	file:
+bLength	C:\joyneuf\system\usb\class\hid\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bLow	C:\joyneuf\system\typedefs.h	129;"	m	line:129	struct:_POINTER::<anonymous>
+bNumDsc	C:\joyneuf\system\usb\class\hid\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bRam	C:\joyneuf\system\typedefs.h	137;"	m	line:137	union:_POINTER
+bRom	C:\joyneuf\system\typedefs.h	142;"	m	line:142	union:_POINTER
+bcdHID	C:\joyneuf\system\usb\class\hid\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+buffer	C:\joyneuf\user\user_mouse.c	50;"	v	line:50
+byte	C:\joyneuf\system\typedefs.h	40;"	t	line:40
+byte0	C:\joyneuf\system\typedefs.h	65;"	m	line:65	struct:_WORD::<anonymous>
+byte0	C:\joyneuf\system\typedefs.h	91;"	m	line:91	struct:_DWORD::<anonymous>
+byte1	C:\joyneuf\system\typedefs.h	66;"	m	line:66	struct:_WORD::<anonymous>
+byte1	C:\joyneuf\system\typedefs.h	92;"	m	line:92	struct:_DWORD::<anonymous>
+byte2	C:\joyneuf\system\typedefs.h	93;"	m	line:93	struct:_DWORD::<anonymous>
+byte3	C:\joyneuf\system\typedefs.h	94;"	m	line:94	struct:_DWORD::<anonymous>
+byte_to_read	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	335;"	l	line:335
+byte_to_send	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	265;"	l	line:265
+cs_sdmmc::LATBbits.LATB3	C:\joyneuf\io_cfg.h	112;"	d	line:112
+cs_temp_sensor::LATBbits.LATB2	C:\joyneuf\io_cfg.h	109;"	d	line:109
+ctrl_trf_mem	C:\joyneuf\system\usb\usbmmap.h	76;"	m	line:76	struct:_USB_DEVICE_STATUS::<anonymous>
+ctrl_trf_session_owner	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	45;"	v	line:45
+ctrl_trf_state	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	44;"	v	line:44
+delay_count	C:\joyneuf\system\usb\usbdrv\usbdrv.c	419;"	l	line:419	file:
+device_dsc	C:\joyneuf\autofiles\usbdsc.c	180;"	v	line:180
+dword	C:\joyneuf\system\typedefs.h	42;"	t	line:42
+ep0Bi	C:\joyneuf\system\usb\usbmmap.c	175;"	v	line:175
+ep0Bo	C:\joyneuf\system\usb\usbmmap.c	174;"	v	line:174
+ep10Bi	C:\joyneuf\system\usb\usbmmap.c	225;"	v	line:225
+ep10Bo	C:\joyneuf\system\usb\usbmmap.c	224;"	v	line:224
+ep11Bi	C:\joyneuf\system\usb\usbmmap.c	230;"	v	line:230
+ep11Bo	C:\joyneuf\system\usb\usbmmap.c	229;"	v	line:229
+ep12Bi	C:\joyneuf\system\usb\usbmmap.c	235;"	v	line:235
+ep12Bo	C:\joyneuf\system\usb\usbmmap.c	234;"	v	line:234
+ep13Bi	C:\joyneuf\system\usb\usbmmap.c	240;"	v	line:240
+ep13Bo	C:\joyneuf\system\usb\usbmmap.c	239;"	v	line:239
+ep14Bi	C:\joyneuf\system\usb\usbmmap.c	245;"	v	line:245
+ep14Bo	C:\joyneuf\system\usb\usbmmap.c	244;"	v	line:244
+ep15Bi	C:\joyneuf\system\usb\usbmmap.c	250;"	v	line:250
+ep15Bo	C:\joyneuf\system\usb\usbmmap.c	249;"	v	line:249
+ep1Bi	C:\joyneuf\system\usb\usbmmap.c	180;"	v	line:180
+ep1Bo	C:\joyneuf\system\usb\usbmmap.c	179;"	v	line:179
+ep2Bi	C:\joyneuf\system\usb\usbmmap.c	185;"	v	line:185
+ep2Bo	C:\joyneuf\system\usb\usbmmap.c	184;"	v	line:184
+ep3Bi	C:\joyneuf\system\usb\usbmmap.c	190;"	v	line:190
+ep3Bo	C:\joyneuf\system\usb\usbmmap.c	189;"	v	line:189
+ep4Bi	C:\joyneuf\system\usb\usbmmap.c	195;"	v	line:195
+ep4Bo	C:\joyneuf\system\usb\usbmmap.c	194;"	v	line:194
+ep5Bi	C:\joyneuf\system\usb\usbmmap.c	200;"	v	line:200
+ep5Bo	C:\joyneuf\system\usb\usbmmap.c	199;"	v	line:199
+ep6Bi	C:\joyneuf\system\usb\usbmmap.c	205;"	v	line:205
+ep6Bo	C:\joyneuf\system\usb\usbmmap.c	204;"	v	line:204
+ep7Bi	C:\joyneuf\system\usb\usbmmap.c	210;"	v	line:210
+ep7Bo	C:\joyneuf\system\usb\usbmmap.c	209;"	v	line:209
+ep8Bi	C:\joyneuf\system\usb\usbmmap.c	215;"	v	line:215
+ep8Bo	C:\joyneuf\system\usb\usbmmap.c	214;"	v	line:214
+ep9Bi	C:\joyneuf\system\usb\usbmmap.c	220;"	v	line:220
+ep9Bo	C:\joyneuf\system\usb\usbmmap.c	219;"	v	line:219
+hid_dsc_header	C:\joyneuf\system\usb\class\hid\hid.h	141;"	m	line:141	struct:_USB_HID_DSC
+hid_report_in	C:\joyneuf\system\usb\usbmmap.c	278;"	v	line:278
+hid_report_out	C:\joyneuf\system\usb\usbmmap.c	277;"	v	line:277
+hid_rpt01	C:\joyneuf\autofiles\usbdsc.c	247;"	v	line:247
+hid_rpt_rx_len	C:\joyneuf\system\usb\class\hid\hid.c	48;"	v	line:48
+i	C:\joyneuf\system\usb\class\hid\hid.c	228;"	l	line:228
+i	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	135;"	l	line:135
+idle_rate	C:\joyneuf\system\usb\class\hid\hid.c	46;"	v	line:46
+mHIDGetRptRxLength::hid_rpt_rx_len	C:\joyneuf\system\usb\class\hid\hid.h	128;"	d	line:128
+mHIDRxIsBusy::HID_BD_OUT.Stat.UOWN	C:\joyneuf\system\usb\class\hid\hid.h	90;"	d	line:90
+mHIDTxIsBusy::HID_BD_IN.Stat.UOWN	C:\joyneuf\system\usb\class\hid\hid.h	109;"	d	line:109
+mInitAllLEDs::LATD&=0xF0;TRISD&=0xF0;	C:\joyneuf\io_cfg.h	75;"	d	line:75
+mInitAllSwitches::TRISBbits.TRISB4=1;TRISBbits.T	C:\joyneuf\io_cfg.h	98;"	d	line:98
+mInitPOT::TRISAbits.TRISA0=1;ADCON0=0x01	C:\joyneuf\io_cfg.h	105;"	d	line:105
+mInitSwitch2::TRISBbits.TRISB4=1;	C:\joyneuf\io_cfg.h	99;"	d	line:99
+mInitSwitch3::TRISBbits.TRISB5=1;	C:\joyneuf\io_cfg.h	100;"	d	line:100
+mLED_1::LATDbits.LATD0	C:\joyneuf\io_cfg.h	77;"	d	line:77
+mLED_1_Off::mLED_1=0;	C:\joyneuf\io_cfg.h	87;"	d	line:87
+mLED_1_On::mLED_1=1;	C:\joyneuf\io_cfg.h	82;"	d	line:82
+mLED_1_Toggle::mLED_1=!mLED_1;	C:\joyneuf\io_cfg.h	92;"	d	line:92
+mLED_2::LATDbits.LATD1	C:\joyneuf\io_cfg.h	78;"	d	line:78
+mLED_2_Off::mLED_2=0;	C:\joyneuf\io_cfg.h	88;"	d	line:88
+mLED_2_On::mLED_2=1;	C:\joyneuf\io_cfg.h	83;"	d	line:83
+mLED_2_Toggle::mLED_2=!mLED_2;	C:\joyneuf\io_cfg.h	93;"	d	line:93
+mLED_3::LATDbits.LATD2	C:\joyneuf\io_cfg.h	79;"	d	line:79
+mLED_3_Off::mLED_3=0;	C:\joyneuf\io_cfg.h	89;"	d	line:89
+mLED_3_On::mLED_3=1;	C:\joyneuf\io_cfg.h	84;"	d	line:84
+mLED_3_Toggle::mLED_3=!mLED_3;	C:\joyneuf\io_cfg.h	94;"	d	line:94
+mLED_4::LATDbits.LATD3	C:\joyneuf\io_cfg.h	80;"	d	line:80
+mLED_4_Off::mLED_4=0;	C:\joyneuf\io_cfg.h	90;"	d	line:90
+mLED_4_On::mLED_4=1;	C:\joyneuf\io_cfg.h	85;"	d	line:85
+mLED_4_Toggle::mLED_4=!mLED_4;	C:\joyneuf\io_cfg.h	95;"	d	line:95
+mUSBGetHIDDscAdr::(ptr)	C:\joyneuf\autofiles\usbcfg.h	81;"	d	line:81
+mUSBGetHIDRptDscAdr::(ptr)	C:\joyneuf\autofiles\usbcfg.h	87;"	d	line:87
+mUSBGetHIDRptDscSize::(count)	C:\joyneuf\autofiles\usbcfg.h	93;"	d	line:93
+main	C:\joyneuf\main.c	80;"	f	line:80	signature:(void)
+pDst	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	48;"	v	line:48
+pFunc	C:\joyneuf\system\typedefs.h	123;"	t	line:123
+pSrc	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	47;"	v	line:47
+report	C:\joyneuf\autofiles\usbdsc.c	247;"	m	line:247	file:
+report	C:\joyneuf\autofiles\usbdsc.h	66;"	m	line:66
+sd000	C:\joyneuf\autofiles\usbdsc.c	234;"	v	line:234
+sd001	C:\joyneuf\autofiles\usbdsc.c	237;"	v	line:237
+sd002	C:\joyneuf\autofiles\usbdsc.c	242;"	v	line:242
+self_power::1	C:\joyneuf\io_cfg.h	61;"	d	line:61
+self_power::PORTAbits.RA2	C:\joyneuf\io_cfg.h	59;"	d	line:59
+string	C:\joyneuf\autofiles\usbdsc.c	234;"	m	line:234	file:
+string	C:\joyneuf\autofiles\usbdsc.c	237;"	m	line:237	file:
+string	C:\joyneuf\autofiles\usbdsc.c	242;"	m	line:242	file:
+sw2::PORTBbits.RB4	C:\joyneuf\io_cfg.h	101;"	d	line:101
+sw3::PORTBbits.RB5	C:\joyneuf\io_cfg.h	102;"	d	line:102
+tris_cs_sdmmc::TRISBbits.TRISB3	C:\joyneuf\io_cfg.h	111;"	d	line:111
+tris_cs_temp_sensor::TRISBbits.TRISB2	C:\joyneuf\io_cfg.h	108;"	d	line:108
+tris_self_power::TRISAbits.TRISA2	C:\joyneuf\io_cfg.h	56;"	d	line:56
+tris_usb_bus_sense::TRISAbits.TRISA1	C:\joyneuf\io_cfg.h	48;"	d	line:48
+tris_usb_oe::TRISCbits.TRISC1	C:\joyneuf\io_cfg.h	70;"	d	line:70
+tris_usb_rcv::TRISAbits.TRISA4	C:\joyneuf\io_cfg.h	67;"	d	line:67
+tris_usb_suspnd::TRISAbits.TRISA3	C:\joyneuf\io_cfg.h	72;"	d	line:72
+tris_usb_vm::TRISCbits.TRISC4	C:\joyneuf\io_cfg.h	69;"	d	line:69
+tris_usb_vmo::TRISBbits.TRISB2	C:\joyneuf\io_cfg.h	66;"	d	line:66
+tris_usb_vp::TRISCbits.TRISC5	C:\joyneuf\io_cfg.h	68;"	d	line:68
+tris_usb_vpo::TRISBbits.TRISB3	C:\joyneuf\io_cfg.h	65;"	d	line:65
+usb_active_cfg	C:\joyneuf\system\usb\usbmmap.c	159;"	v	line:159
+usb_alt_intf	C:\joyneuf\system\usb\usbmmap.c	160;"	v	line:160
+usb_bus_sense::1	C:\joyneuf\io_cfg.h	53;"	d	line:53
+usb_bus_sense::PORTAbits.RA1	C:\joyneuf\io_cfg.h	51;"	d	line:51
+usb_device_state	C:\joyneuf\system\usb\usbmmap.c	157;"	v	line:157
+usb_stat	C:\joyneuf\system\usb\usbmmap.c	158;"	v	line:158
+v	C:\joyneuf\system\typedefs.h	115;"	m	line:115	struct:_DWORD::<anonymous>
+v	C:\joyneuf\system\typedefs.h	80;"	m	line:80	struct:_WORD::<anonymous>
+wCount	C:\joyneuf\system\usb\usbctrltrf\usbctrltrf.c	49;"	v	line:49
+wDscLength	C:\joyneuf\system\usb\class\hid\hid.h	134;"	m	line:134	struct:_USB_HID_DSC_HEADER
+wRam	C:\joyneuf\system\typedefs.h	139;"	m	line:139	union:_POINTER
+wRom	C:\joyneuf\system\typedefs.h	143;"	m	line:143	union:_POINTER
+word	C:\joyneuf\system\typedefs.h	41;"	t	line:41
+word0	C:\joyneuf\system\typedefs.h	98;"	m	line:98	struct:_DWORD::<anonymous>
+word1	C:\joyneuf\system\typedefs.h	99;"	m	line:99	struct:_DWORD::<anonymous>
